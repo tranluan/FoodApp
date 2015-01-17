@@ -1,0 +1,6 @@
+﻿<Application
+    x:Class="foodapp_mhacks.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:foodapp_mhacks">
+</Application>
